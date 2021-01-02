@@ -12,7 +12,8 @@
   - Python 🐍(3+ years)
   - 🇨/🇨➕➕ (3+ years)
   - MATLAB (2+ years)
- 📫 Reach out to me via [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naman-kaushik-1bba57168/)](https://www.linkedin.com/in/naman-kaushik-1bba57168/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:namank.cd.mec17@itbhu.ac.in)](mailto:namank.cd.mec17@itbhu.ac.in)
+
+📫 Reach out to me via [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naman-kaushik-1bba57168/)](https://www.linkedin.com/in/naman-kaushik-1bba57168/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:namank.cd.mec17@itbhu.ac.in)](mailto:namank.cd.mec17@itbhu.ac.in)
 <!--
 **typewriter221/typewriter221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
