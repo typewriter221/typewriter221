@@ -2,6 +2,7 @@
 🎓 4th year undergrad enrolled in intigrated(B.Tech + M.Tech) course at IIT BHU Varanasi 🧑🏻‍🎓
 ### Fields of insterst 🕵️
   - Robotics
+  - Computer Vision
   - Deep Learning
   - Machine Learning
   - Algorithims
